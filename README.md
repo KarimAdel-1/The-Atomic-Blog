@@ -35,16 +35,7 @@ Welcome to The Atomic Blog! This is a simple React application that simulates a 
    ```bash
    npm start
    ```
-
-## 🗂️ Project Structure
-
-- **`src`**: Contains the main components and context provider.
-  - **`App.js`**: The main component that houses the structure of the blog.
-  - **`PostContext.js`**: The context provider that handles the state for posts.
-  - **`createRandomPost.js`**: Utility function for generating random posts using the `faker` library.
-- **`public`**: Contains the `index.html` file and other static assets.
-- **`README.md`**: This file, containing information about the project.
-
+   
 ## 💡 Usage
 
 ### 📝 Adding Posts

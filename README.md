@@ -1,7 +1,3 @@
-To add icons beside each title in the README, you can use emojis. Here's the updated README with icons beside each title:
-
----
-
 # ⚛️ The Atomic Blog
 
 Welcome to The Atomic Blog! This is a simple React application that simulates a blog where users can create, search, and archive posts. The app also features a "fake dark mode" for a touch of aesthetic.
